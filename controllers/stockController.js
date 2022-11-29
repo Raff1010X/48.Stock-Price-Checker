@@ -1,5 +1,4 @@
 //EDITED
-const catchAsync = require('../utils/catchAsync');
 const fetchModel = require('../models/fetchModel')
 
 exports.getData = async (req, res, next) => {

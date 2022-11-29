@@ -1,10 +1,8 @@
-const catchAsync = require('../utils/catchAsync')
 const Stock = require('./stockModel')
 const fetch = require('node-fetch');
-const address = `https://stock-price-checker-proxy.freecodecamp.rocks/v1/stock/`
 const ip = require("ip")
 const bcrypt = require('bcrypt')
-
+const address = `https://stock-price-checker-proxy.freecodecamp.rocks/v1/stock/`
 
 const hashIp = async (ip) => bcrypt.hash(ip, 6).then((hash) => hash)
 
