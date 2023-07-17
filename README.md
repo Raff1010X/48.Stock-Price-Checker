@@ -6,7 +6,7 @@ This is the boilerplate for the Stock Price Checker project. Instructions for bu
 
 ## [Stock Price Checker](https://freecodecamp.org/learn/information-security/information-security-projects/stock-price-checker)
 
-Working example: https://app-stock-price-checker.webdev.priv.pl/
+Working example: http://app-stock-price-checker.webdev.priv.pl/
 
 My git repo: https://github.com/Raff1010X/01.Roadmap
 
